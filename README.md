@@ -6,7 +6,13 @@ A modern, interactive decision-making tool designed to help developers choose th
 
 Monitored and optimized across major modern programming languages:
 
-[Python] 🐍   [Java] ☕   [C++] 🟦   [C#] 💜   [JavaScript] 🟨
+<p> 
+  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
+  <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"/>
+  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</p>
 
 
 ---
