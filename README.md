@@ -2,6 +2,8 @@
 
 A modern, interactive decision-making tool designed to help developers choose the perfect data structure for their specific algorithmic needs. Filter by language, data type, capacity behaviors, and exact **Big O Time Complexity** bounds.
 
+**Link to my website:** — <a src="https://ds-recommender.vercel.app/" target="_blank">https://ds-recommender.vercel.app/</a>
+
 ## 🚀 Supported Ecosystems
 
 Monitored and optimized across major modern programming languages:
@@ -44,50 +46,10 @@ The application filters data structures dynamically across a matrix of structura
 
 ---
 
-## 👁️ Interface & Recommendation Previews
-
-When parameters match, the app outputs clean execution cards that dynamically point directly to the corresponding engine's official documentation.
-
-### 📦 Structure Card: Array
-`JavaScript` `Insertion Order`
-
-**Best for:** Acts as List, Stack, and Queue.
-
-#### ⏱️ AVERAGE TIME COMPLEXITY
-| 🔍 Search | ➕ Insert | 🗑️ Delete |
-| :---: | :---: | :---: |
-| <span style="color:#ef4444">**O(n)**</span> | <span style="color:#ef4444">**O(n)**</span> | <span style="color:#ef4444">**O(n)**</span> |
-
-> ℹ️ `push()` and `pop()` at the end are O(1). `shift()` is O(n).
-> 
-> 🔗 **[Read JavaScript Array Documentation ↗](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)**
-
-***
-
-### 📦 Structure Card: HashMap / Dictionary
-`Python` `Unordered / Hash Table`
-
-**Best for:** Fast lookups, insertions, and deletions using unique keys.
-
-#### ⏱️ AVERAGE TIME COMPLEXITY
-| 🔍 Search | ➕ Insert | 🗑️ Delete |
-| :---: | :---: | :---: |
-| <span style="color:#22c55e">**O(1)**</span> | <span style="color:#22c55e">**O(1)**</span> | <span style="color:#22c55e">**O(1)**</span> |
-
-> ℹ️ Performance degrades to O(n) in highly extreme key collision scenarios.
-> 
-> 🔗 **[Read Python Dict Documentation ↗](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)**
-
----
-
 ## 💻 Tech Stack
 
 * **Framework:** Next.js (App Router)
 * **Language:** TypeScript
 * **Styling:** Tailwind CSS
 
----
 
-## 🛠️ Local Development Setup
-
-Clone th
