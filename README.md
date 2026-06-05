@@ -27,7 +27,6 @@ The application filters data structures dynamically across a matrix of structura
 * **Duplicate Policy:** Allow Duplicates (`Yes` / `No`).
 
 ### 2. Internal Behavior & Ordering
-> 🟢 **Behavior Matrix Selected**
 > * `Maintains Insertion Order (Arrays, Lists)`
 > * `Unordered / Hash Table (Fastest Lookups)`
 > * `Automatically Sorted (Red-Black Trees)`
